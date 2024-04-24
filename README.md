@@ -7,6 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
+![IMG-20240424-WA0011](https://github.com/hamzaali163/Blog-app-with-Firebase/assets/131654468/66c546f9-7929-4ae0-8bf5-3cae0ec22888)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
